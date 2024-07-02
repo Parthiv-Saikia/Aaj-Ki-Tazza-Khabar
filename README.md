@@ -13,7 +13,7 @@ Features
 
 4.Search Functionality: Search for news articles.
 
-5. Responsive Design: Optimized for both desktop and mobile views.
+5.Responsive Design: Optimized for both desktop and mobile views.
 
 
 
