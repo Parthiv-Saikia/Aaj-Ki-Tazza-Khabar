@@ -4,6 +4,7 @@ This repository contains the code for a news aggregator website built using the 
 
 Features
 
+
 1.News Aggregation: Pulls news from multiple sources.
 
 2.User Authentication: Allows users to create accounts and log in.
