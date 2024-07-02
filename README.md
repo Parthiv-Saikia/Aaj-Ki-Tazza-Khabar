@@ -7,13 +7,11 @@ Features
 
 1.News Aggregation: Pulls news from multiple sources.
 
-2.User Authentication: Allows users to create accounts and log in.
+2.Personalized Feeds: Users can customize their news feed based on interests.
 
-3.Personalized Feeds: Users can customize their news feed based on interests.
+3.Search Functionality: Search for news articles based on topics or regions.
 
-4.Search Functionality: Search for news articles.
-
-5.Responsive Design: Optimized for both desktop and mobile views.
+4.Responsive Design: Optimized for both desktop and mobile views.
 
 
 
