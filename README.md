@@ -34,6 +34,4 @@ Technologies Used
 
 5.Axios: For making HTTP requests to news APIs.
 
-6. JWT: For user authentication.
-
-7. Bootstrap: For responsive design.
+6.Bootstrap: For responsive design.
