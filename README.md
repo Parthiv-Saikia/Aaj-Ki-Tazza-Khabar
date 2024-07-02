@@ -14,3 +14,22 @@ Features
 4.Search Functionality: Search for news articles.
 
 5. Responsive Design: Optimized for both desktop and mobile views.
+
+
+
+
+Technologies Used
+
+
+1.MongoDB: For database management.
+
+2.Express.js: For backend framework.
+
+3.React: For frontend framework.
+
+4.Node.js: For backend runtime environment.
+
+5.Axios: For making HTTP requests to news APIs.
+
+6. JWT: For user authentication.
+Bootstrap: For responsive design.
