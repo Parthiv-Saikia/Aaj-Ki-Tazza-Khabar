@@ -1,6 +1,6 @@
 News Aggregator Project
 
-This repository contains the code for a news aggregator website built using the MERN stack (React+Vite, Node.js,TailWind CSS, Axios). The website consolidates news from different sources and presents it in a user-friendly manner.
+This repository contains the code for a news aggregator website built using the MERN stack (React+Vite, Node.js,Tailwind CSS, Axios). The website consolidates news from different sources and presents it in a user-friendly manner.
 
 Features
 
