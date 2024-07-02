@@ -24,14 +24,12 @@ Features
 Technologies Used
 
 
-1.MongoDB: For database management.
+1.API Fetching from NewsAPI
 
-2.Express.js: For backend framework.
+2.React + Vite: For frontend framework.
 
-3.React: For frontend framework.
+3.Node.js: For backend runtime environment.
 
-4.Node.js: For backend runtime environment.
+4.Axios: For making HTTP requests to news APIs.
 
-5.Axios: For making HTTP requests to news APIs.
-
-6.Bootstrap: For responsive design.
+5.TailWind CSS for frontend
